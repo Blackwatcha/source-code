@@ -6,3 +6,4 @@ o=()=>e.sendSync("islocked");
 return{lock:n,unlock:c,islocked:o}}();
 
 
+''add blank''
